@@ -1,0 +1,12 @@
+#列表
+list=[1,2,3,4]
+#集合，可以包含列表
+sets=(1,2,3)
+sets1=(3,4,5)
+sets2=set(['2','5','3','6'])
+sets3=set(['2','5','3','7'])
+#可以判断大小、求交并等
+print(sets>sets1)
+print(sets2&sets3)
+#对list求集合操作，需要现转换为set
+sets4=set(list)

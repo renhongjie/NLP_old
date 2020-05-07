@@ -1,0 +1,28 @@
+2020-01-28 20:11:11,233:dataset.py:build:207: INFO - build dataset...
+2020-01-28 20:11:11,256:dataset.py:_create_vocab:106: INFO - 	create vocab ...
+2020-01-28 20:11:11,284:dataset.py:_create_vocab:114: INFO - 		processing 0
+2020-01-28 20:11:12,116:dataset.py:_create_vocab:142: INFO - 	 create vocab finished! cost:0.839298
+2020-01-28 20:11:12,130:dataset.py:_create_trainset:151: INFO - 	create trainset...
+2020-01-28 20:11:12,131:dataset.py:__init__:58: INFO - max_sent_len:300, vocab_size:1
+2020-01-28 20:11:12,147:dataset.py:_create_trainset:165: INFO - count:1, cate:normal, fname:13.txt
+2020-01-28 20:11:12,162:dataset.py:_create_trainset:165: INFO - count:2, cate:normal, fname:1(1).txt
+2020-01-28 20:11:12,183:dataset.py:_create_trainset:165: INFO - count:3, cate:normal, fname:12.txt
+2020-01-28 20:11:12,195:dataset.py:_create_trainset:165: INFO - count:4, cate:normal, fname:10.txt
+2020-01-28 20:11:12,205:dataset.py:_create_trainset:165: INFO - count:5, cate:normal, fname:5.txt
+2020-01-28 20:11:12,218:dataset.py:_create_trainset:165: INFO - count:6, cate:normal, fname:6.txt
+2020-01-28 20:11:12,227:dataset.py:_create_trainset:165: INFO - count:7, cate:normal, fname:7.txt
+2020-01-28 20:11:12,238:dataset.py:_create_trainset:165: INFO - count:8, cate:normal, fname:2.txt
+2020-01-28 20:11:12,249:dataset.py:_create_trainset:189: INFO - 		normal:8
+2020-01-28 20:11:12,254:dataset.py:_create_trainset:165: INFO - count:1, cate:politics, fname:15.txt
+2020-01-28 20:11:12,265:dataset.py:_create_trainset:165: INFO - count:2, cate:politics, fname:16.txt
+2020-01-28 20:11:12,276:dataset.py:_create_trainset:165: INFO - count:3, cate:politics, fname:11.txt
+2020-01-28 20:11:12,290:dataset.py:_create_trainset:165: INFO - count:4, cate:politics, fname:9.txt
+2020-01-28 20:11:12,297:dataset.py:_create_trainset:165: INFO - count:5, cate:politics, fname:8.txt
+2020-01-28 20:11:12,312:dataset.py:_create_trainset:165: INFO - count:6, cate:politics, fname:4.txt
+2020-01-28 20:11:12,321:dataset.py:_create_trainset:165: INFO - count:7, cate:politics, fname:3.txt
+2020-01-28 20:11:12,331:dataset.py:_create_trainset:165: INFO - count:8, cate:politics, fname:21.txt
+2020-01-28 20:11:12,341:dataset.py:_create_trainset:165: INFO - count:9, cate:politics, fname:22.txt
+2020-01-28 20:11:12,350:dataset.py:_create_trainset:165: INFO - count:10, cate:politics, fname:19.txt
+2020-01-28 20:11:12,361:dataset.py:_create_trainset:189: INFO - 		politics:10
+2020-01-28 20:11:12,422:dataset.py:_create_trainset:195: INFO - 	create trainset finished! cost:0.275290
+2020-01-28 20:12:27,508:dataset.py:build:207: INFO - build dataset...
